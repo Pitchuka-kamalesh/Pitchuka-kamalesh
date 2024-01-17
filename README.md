@@ -1,13 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kamalesh Pitchuka
 =========================================================================================================================================
 
-Lead Engineer
--------------
-
 * 🌍  I'm based in Kakinada.
 * ✉️  You can contact me at [pitchukakamalesh@gmail.com](mailto:pitchukakamalesh@gmail.com)
 * 🧠  I'm learning the New Test Automation Framework.
-* 🤝  I'm open to collaborating on Anything about automation.
+* 🤝  I'm open to Work.
 
 ### Skills
 

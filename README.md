@@ -18,19 +18,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Pitchuka-kamalesh"><img src="https://github-readme-stats.vercel.app/api?username=Pitchuka-kamalesh&show_icons=true&hide=contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pitchuka-kamalesh's GitHub stats" /></a>
-
-<a href="http://www.github.com/Pitchuka-kamalesh"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Pitchuka-kamalesh&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Pitchuka-kamalesh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitchuka-kamalesh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Pitchuka-kamalesh)  
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Pitchuka-kamalesh/Pitchuka-kamalesh/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pitchuka-kamalesh)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pitchuka-kamalesh)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pitchuka-kamalesh&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Pitchuka-kamalesh)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Pitchuka-kamalesh)  
+
+
+
+
+
 
 <b>Top Repositories</b>
 

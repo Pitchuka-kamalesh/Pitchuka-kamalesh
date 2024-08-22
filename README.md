@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Kakinada.
 * ✉️  You can contact me at [kamal](mailto:kamaleshpitchuka@proton.me)
-* 🧠  I'm learning the New Test Automation Framework.
 * 🤝  I'm open to Work.
 
 ### Skills
